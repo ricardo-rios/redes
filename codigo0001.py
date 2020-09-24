@@ -1,7 +1,7 @@
 import sys, urllib.request
 
 try:
-    rfc_number = int(sys.argv[1])
+    rfc_number = 2324
 
 except (IndexError, ValueError):
     print('Debes proporcionar un número RFC como primer argumento')
