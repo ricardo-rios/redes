@@ -11,7 +11,7 @@ print(req.header_items())
 
 response = urlopen(req)
 
-print(response.readlines())[:5] 
+print(response.readlines()[:5]) 
 
 # El metodo urlopen agrega unas cabeceras 
 print(req.header_items()) 
