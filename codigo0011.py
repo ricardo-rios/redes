@@ -5,7 +5,7 @@ from urllib.request import Request
 
 req = Request('http://python.org')
 urlopen(req)
-req.get_header('User-agent')
+print(req.get_header('User-agent'))
 
 
 
