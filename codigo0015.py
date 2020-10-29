@@ -3,7 +3,7 @@ from urllib.request import urlopen
 from urllib.request import Request
 
 
-req = Request('http://gmail.com')
+req = Request('http://www.ues.edu.sv')
 response = urlopen(req)
 
 print(response.url)
