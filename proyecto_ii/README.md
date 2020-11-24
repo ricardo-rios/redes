@@ -10,4 +10,10 @@
 
 4.[Checking UserName/Password File](https://github.com/ricardo-rios/redes/blob/master/proyecto_ii/check_username_pass_file.py) 
 
+5.[Checking cmd file](https://github.com/ricardo-rios/redes/blob/master/proyecto_ii/check_command_file.py) 
+
+6.[Connect ssh](https://github.com/ricardo-rios/redes/blob/master/proyecto_ii/connect_ssh.py) 
+
+7.[Multiple threads](https://github.com/ricardo-rios/redes/blob/master/proyecto_ii/multiple_threads.py) 
+
 
