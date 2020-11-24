@@ -21,7 +21,7 @@ def ip_reach(list):
 
 if __name__ == "__main__":
 
-   l = ['172.217.15.196']
+   l = ['3.237.177.207']
    ip_reach(l)
 
 

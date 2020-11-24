@@ -18,7 +18,7 @@ def ip_addr_valid(list):
 
 if __name__ == "__main__":
 
-   l = ['3.237.177.207']
+   l = ['168.232.49.192']
    ip_addr_valid(l)
 
 
